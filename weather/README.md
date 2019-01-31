@@ -4,7 +4,7 @@ E-mail: b.beemmps@gmail.com <br />
 Tel: 082-341-7225
 
 # Compile/Build/Run
-Compile on Terminal or Console
+Compile on Console
 ```python
 	python weather.py
 ``` 
