@@ -1,6 +1,6 @@
 # Profile
-Name: Thanunya Jeerasukvet
-E-mail: b.beemmps@gmail.com
+Name: Thanunya Jeerasukvet /n
+E-mail: b.beemmps@gmail.com /n
 Tel: 082-341-7225
 
 # Compile/Build/Run
